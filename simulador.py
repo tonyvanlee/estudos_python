@@ -97,7 +97,7 @@ while True:
         \rE - Editar transação
         \rS - Consultar saldo atual
         \rQ - Sair do programa
-        \rSua entrada de dados: """).upper()
+        \rSua entrada: """).upper()
 
     if op == 'A':
         adicionarTransacao()
