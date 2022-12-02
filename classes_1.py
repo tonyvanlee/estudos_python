@@ -69,6 +69,6 @@ p1.parar_comer()
 
     
 
-#git reset soft
+#git reset --soft
 #git reset mixed
 #git reset hard
