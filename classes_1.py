@@ -15,7 +15,7 @@ class Pessoa:
             return
         
         if self.falando:
-            print(f'{self.nome} ja esta falando')
+            print(f'{self.nome} ja esta falando ')
             return
         print(f'{self.nome} falou sobre {assunto}')
         self.falando = True
@@ -69,3 +69,4 @@ p1.parar_comer()
 
     
 
+#git reset soft
